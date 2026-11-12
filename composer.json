@@ -9,6 +9,10 @@
         {
             "name": "mormat",
             "email": "mormat@free.fr"
+        },
+        {
+            "name": "Gabriel Morgado",
+            "email": "gabriel.morgado@dbseller.com.br"
         }
     ],
     "require-dev": {
