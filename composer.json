@@ -25,5 +25,6 @@
     },
     "replace": {
         "mormat/php-formula-interpreter": "self.version"
-    }
+    },
+    "version": "1.0.1"
 }
