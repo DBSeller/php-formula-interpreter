@@ -13,9 +13,9 @@ namespace FormulaInterpreter\Command;
  * @author mathieu
  */
 interface CommandInterface {
-    
+
     function run();
-    
+
 //    static function create($options);
     
 }
